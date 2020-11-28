@@ -46,7 +46,6 @@ func main(){
 			}	
 		}
 	} 
-	fmt.Printf("%d\n", n)
 
 	fmt.Printf("%d\n", ans)
 }
